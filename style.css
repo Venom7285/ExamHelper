@@ -1,0 +1,384 @@
+.dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: cadetblue;
+    width: 500px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 99;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .dropdown-content a:hover {background-color: #ddd;}
+
+  .dropdown:hover .dropdown-content {display: block;}
+
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+  .questionP {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+  }
+
+  .mcq_sec {
+    border-radius: 20px;
+    background-color: coral;
+  }
+
+  #div_of_2Q {
+    margin-left: 10px;
+  }
+
+  #div_of_4Q {
+    margin-left: 10px;
+  }
+
+  #div_of_6Q {
+    margin-left: 10px;
+  }
+
+  #div_of_8Q {
+    margin-left: 10px;
+  }
+
+  #div_of_10Q {
+    margin-left: 10px;
+  }
+
+  #div_of_12Q {
+    margin-left: 10px;
+  }
+
+  #div_of_14Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_16Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_18Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_20Q {
+    margin-left: 10px;
+  } 
+
+  .answer_given {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #bgrnd-color {
+    background-color: mediumturquoise;
+  }
+
+  #div_of_22Q {
+    margin-left: 10px;
+  } 
+
+  h3 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .mcq_sec2 {
+    border-radius: 20px;
+    background-color:limegreen;
+  }
+  #div_of_24Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_26Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_28Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_30Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_32Q {
+    margin-left: 10px;
+  } 
+
+  #scroll_up_msg {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #answerQ2 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  #answerQ3 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  #marks_t1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .login_div {
+    background-color: white;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 50px;
+  }
+
+  #img1 {
+    height: 50px;
+    width: 50px;
+  }
+
+  #bgrnd {
+    background-color: aquamarine;
+  }
+
+  .header {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #user {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+  }
+
+  #user_name {
+    border-radius: 5px;
+    border-width: 2px;
+    height: 30px;
+    font-size: 25px;
+  }
+
+  #login_button {
+    border-radius: 5px;
+    background-color: chartreuse;
+    font-size: 25px;
+  }
+
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #greeting {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #subject_history {
+    border-radius: 75px;
+    height: 50px;
+    width: 50px;
+  }
+
+  #Heading {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #div_of_34Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_36Q {
+    margin-left: 10px;
+  } 
+
+  #t2_msg {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #total_t2M {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #fail_grade {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+    font-size: 22px;
+  }
+
+  #fail_gradeT2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+    font-size: 22px;
+  }
+
+  #div_of_38Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_40Q {
+    margin-left: 10px;
+  } 
+
+  #div_of_42Q {
+    margin-left: 10px;
+  }
+
+  #div_of_44Q {
+    margin-left: 10px;
+  }
+  
+  .mcq_sec3 {
+    background-color: crimson;
+    border-radius: 15px;
+  }
+
+  #div_of_45Q {
+    position: relative;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: darkorange;
+    width: 500px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  #purchase_note {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    margin: 0 -16px;
+  }
+  
+  .col-25 {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+  }
+  
+  .col-50 {
+    -ms-flex: 50%; /* IE10 */
+    flex: 50%;
+  }
+  
+  .col-75 {
+    -ms-flex: 75%; /* IE10 */
+    flex: 75%;
+  }
+  
+  .col-25,
+  .col-50,
+  .col-75 {
+    padding: 0 16px;
+  }
+  
+  .container {
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+  
+  input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .icon-container {
+    margin-bottom: 20px;
+    padding: 7px 0;
+    font-size: 24px;
+  }
+  
+  .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  
+  span.price {
+    float: right;
+    color: grey;
+  }
+  
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (and change the direction - make the "cart" column go on top) */
+  @media (max-width: 800px) {
+    .row {
+      flex-direction: column-reverse;
+    }
+    .col-25 {
+      margin-bottom: 20px;
+    }
+  }
+
+  .subs {
+    border-radius: 5px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    height: 35px;
+  }
+
+  #subs_taken {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+  }
+
+  #Bt_msg {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #exam_feedback_B {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #q39 {
+    margin-right: 10px;
+  }
+
+  #answerQ40 {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
